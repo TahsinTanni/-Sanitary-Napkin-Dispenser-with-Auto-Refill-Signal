@@ -17,13 +17,3 @@ SanitiServe is an Arduino-based automated sanitary napkin dispenser designed to 
 - Push Button
 - Power Supply
 
-## Communication Protocols
-- **GPIO**: For IR sensor and button input
-- **I2C**: For LCD display communication
-
-## Usage
-1. Upload code to Arduino.
-2. Power the system.
-3. Press the button to dispense a napkin.
-4. Refill when "Please Refill" alert appears.
-
