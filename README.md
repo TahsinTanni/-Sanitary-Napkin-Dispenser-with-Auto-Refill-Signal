@@ -1,7 +1,8 @@
 # SanitiServe – Automated Sanitary Napkin Dispenser
 
 ## Overview
-SanitiServe is an Arduino-based automated sanitary napkin dispenser designed to improve hygiene access in public and private spaces. It dispenses napkins on-demand and alerts users when stock is low.
+SanitiServe is an Arduino-based automated sanitary napkin dispenser designed to improve hygiene access in public and private spaces. 
+It dispenses napkins on-demand and alerts users when stock is low.
 
 ## Features
 - Dispenses a single napkin using a servo motor
